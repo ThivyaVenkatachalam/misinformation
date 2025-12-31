@@ -1,7 +1,7 @@
 streamlit
 numpy
 librosa
-opencv-python
+opencv-python-headless
 scikit-learn
 langdetect
 soundfile
