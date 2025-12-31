@@ -1,0 +1,7 @@
+streamlit
+numpy
+librosa
+opencv-python
+scikit-learn
+langdetect
+soundfile
